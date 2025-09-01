@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "title": "Light–matter interactions in WSe2",
+      "creators": [{"firstName": "A.", "lastName": "Author"}],
+      "date": "2023",
+      "abstractNote": "Phonon dynamics explored via Raman and PL...",
+      "tags": [{"tag": "Raman"}, {"tag": "PL"}],
+      "url": "https://doi.org/xx.xxxx/xxxx",
+      "extra": "Spectral resolution: 0.5 cm-1; Excitation: 532 nm"
+    }
+  ]
+}

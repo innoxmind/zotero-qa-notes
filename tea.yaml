@@ -1,0 +1,17 @@
+version: 1
+project:
+  name: zotero-qa-notes
+  url: https://github.com/innoxmind/zotero-qa-notes
+  packageManagers:
+    - pypi
+
+governance:
+  codeOwners:
+    - "tea1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  quorum: 1
+  rules:
+    treasurySpendingRequires: majority
+
+metadata:
+  description: "Convert Zotero JSON export into Markdown with Q&A prompts"
+  tags: ["zotero", "markdown", "notes", "research"]
