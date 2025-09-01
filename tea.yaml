@@ -7,7 +7,7 @@ project:
 
 governance:
   codeOwners:
-    - "tea1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    - "innoxmind"
   quorum: 1
   rules:
     treasurySpendingRequires: majority
